@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "title": "laravel",
+      "body": "to the marker",
+      "tags": [
+        "html",
+        "css",
+        "ok"
+      ],
+      "id": 4
+    },
+    {
+      "title": "php",
+      "body": "php is the best second to the laravel framework",
+      "tags": [
+        "backend",
+        "api"
+      ],
+      "id": 5
+    },
+    {
+      "title": "meo ",
+      "body": "le",
+      "tags": [
+        "html"
+      ],
+      "id": 6
+    }
+  ]
+}
